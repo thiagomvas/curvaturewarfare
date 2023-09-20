@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c8d9cec32f43a4bb190dcdd0ff5fa3, type: 3}
+  m_Name: TestSide
+  m_EditorClassIdentifier: 
+  sideName: Test Side
+  icon: {fileID: 0}
+  sideGO: {fileID: 3948705426084405207, guid: e9c758dc3161abe4e837a8476b892382, type: 3}
+  cost: 100
+  type: 0
+  projectile: {fileID: 7688763767191945570, guid: ddec96645bc4ac045a16f3db3a25fb79, type: 3}
+  attackCooldown: 1.5
+  damage: 0
+  extraHp: 0
+  extraDef: 0
+  placeholder: 
+  moneyPerTick: 10
+  timeBetweenTicks: 0

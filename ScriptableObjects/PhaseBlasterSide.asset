@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c8d9cec32f43a4bb190dcdd0ff5fa3, type: 3}
+  m_Name: PhaseBlasterSide
+  m_EditorClassIdentifier: 
+  sideName: Phase Blaster Side
+  icon: {fileID: 0}
+  sideGO: {fileID: 3138314895189883299, guid: ba70191c259a885498917aa52ffbed7f, type: 3}
+  cost: 3500
+  type: 0
+  projectile: {fileID: 7105118237584907196, guid: 8c34a79831293bc44b3f969919aec70e, type: 3}
+  attackCooldown: 0.1
+  damage: 5
+  extraHp: 0
+  extraDef: 0
+  placeholder: 
+  moneyPerTick: 0
+  timeBetweenTicks: 0
